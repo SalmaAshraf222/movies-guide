@@ -1,0 +1,37 @@
+@media(min-width:375px){
+  .video-responsive {
+    overflow: hidden;
+   
+  }
+  
+  .video-responsive iframe {
+   
+    height: 300px;
+    width: 300px;
+}
+}
+/* @media(min-width:420px){
+  .video-responsive {
+    overflow: hidden;
+   
+  }
+  
+  .video-responsive iframe {
+   
+    height: 400px;
+    width: 500px;
+}
+} */
+@media(min-width:630px){
+  .video-responsive {
+    overflow: hidden;
+   
+  }
+  
+  .video-responsive iframe {
+   
+    height: 400px;
+    width: 600px;
+  }
+}
+

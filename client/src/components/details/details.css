@@ -1,0 +1,127 @@
+@media(min-width:375px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 60%;
+        padding: 10px;
+       
+    
+    }
+}
+@media(min-width:500px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 40%;
+        padding: 10px;
+       
+    
+    }
+ }
+ @media(min-width:770px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 60%;
+        padding: 10px;
+       
+    
+    }
+    .imgSize{
+        height: 40vh;
+     }
+    
+ }
+ @media(min-width:1200px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 50%;
+        padding: 10px;
+       
+    
+    }
+    .imgSize{
+        height: 100%;
+     }
+    
+ }
+ /*
+@media(min-width:570px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 40%;
+        padding: 10px;
+       
+    
+    }
+}
+@media(min-width:700px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 35%;
+        padding: 10px;
+       
+    
+    }
+}
+@media(min-width:780px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 50%;
+        padding: 10px;
+       
+    
+    }
+}
+@media(min-width:1235px){
+    .favs{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        background-color:wheat;
+        border-radius: 10px;
+        width: 35%;
+        padding: 10px;
+       
+    
+    }
+} */
+
+
+/* .favs:hover{
+  
+        transition: all 0.3s ease-in;
+    
+   
+       
+   
+} */
+/* .favs:focus{
+    transition: all 0.3s linear;
+    box-shadow: 5px 5px 5px #f3b0c7;
+} */

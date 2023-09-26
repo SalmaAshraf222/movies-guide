@@ -1,0 +1,28 @@
+.moreBtn{
+    background: hsla(340, 81%, 74%, 1);
+
+background-image: linear-gradient(45deg, hsla(340, 81%, 74%, 1) 0%, hsla(56, 83%, 82%, 1) 100%);
+
+background-image: -moz-linear-gradient(45deg, hsla(340, 81%, 74%, 1) 0%, hsla(56, 83%, 82%, 1) 100%);
+
+background-image: -webkit-linear-gradient(45deg, hsla(340, 81%, 74%, 1) 0%, hsla(56, 83%, 82%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F285AA", endColorstr="#F7F2AB", GradientType=1 );
+border: white;
+
+}
+
+.moreBtn:hover{
+    transition: 0.2s ease-in;
+    background: hsla(56, 83%, 82%, 1);
+
+    background-image: linear-gradient(45deg, hsla(56, 83%, 82%, 1) 0%, hsla(340, 81%, 74%, 1) 100%);
+    
+    background-image: -moz-linear-gradient(45deg, hsla(56, 83%, 82%, 1) 0%, hsla(340, 81%, 74%, 1) 100%);
+    
+    background-image: -webkit-linear-gradient(45deg, hsla(56, 83%, 82%, 1) 0%, hsla(340, 81%, 74%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7F2AB", endColorstr="#F285AA", GradientType=1 );
+border: white;
+
+}

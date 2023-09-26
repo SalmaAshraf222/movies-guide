@@ -1,0 +1,32 @@
+.sliderimg{
+  height:70vh;
+  width: 100%;
+  object-fit: cover; 
+background-position: center;
+}
+ 
+.backgroundColor{
+  background: hsla(340, 81%, 74%, 1);
+
+  background: radial-gradient(circle, hsla(340, 81%, 74%, 1) 0%, hsla(59, 72%, 86%, 1) 100%);
+  
+  background: -moz-radial-gradient(circle, hsla(340, 81%, 74%, 1) 0%, hsla(59, 72%, 86%, 1) 100%);
+  
+  background: -webkit-radial-gradient(circle, hsla(340, 81%, 74%, 1) 0%, hsla(59, 72%, 86%, 1) 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F285AA", endColorstr="#F5F4C1", GradientType=1 );
+}
+
+@media(min-width:200px){
+  
+  .popcornIcon{
+    font-size: 20px;
+  }
+}
+
+@media(min-width:500px){
+  .popcornIcon{
+    font-size: 30px;
+  }
+}
+

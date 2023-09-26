@@ -1,0 +1,24 @@
+.bg{
+    background-color: transparent;
+}
+
+.favPage{
+    cursor: pointer;
+
+}
+.favPage:hover{
+    transition: 0.2s linear;
+    color: white;
+}
+
+/* @media (max-width:500px){
+    .navIcon{
+        font-size: 10px;
+    }
+}
+
+@media (max-width:2000px){
+    .navIcon{
+        font-size: 50px;
+    }
+} */

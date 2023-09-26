@@ -12,7 +12,7 @@ const Register=({setNewAcc})=>{
 
 async function registerUser(event){
   event.preventDefault();
-  const response=await fetch('http://localhost:1337/api/register',{
+  const response=await fetch('http://localhost:3004/api/register',{
     method:'POST',
     headers:{
       'Content-Type':'application/json',
